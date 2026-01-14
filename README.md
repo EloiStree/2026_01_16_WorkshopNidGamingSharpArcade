@@ -49,6 +49,13 @@ Durant votre apprentissage, je vous invite à les barrer un à un :
 * double barrer les mots que vous maîtrisez ;
 * triple barrer si vous pensez être incollable sur le sujet.
 
+
+----
+
+### Video
+
+- Long first version of the workshop, part 1: https://youtu.be/n4CXsb6nQG4
+  
 ---
 
 ### À voir :
