@@ -1,46 +1,60 @@
-Bonjour a vous et bienvenue.
+Bonjour à vous et bienvenue.
 
-Etes vous pres a souffrit 😁.
+Êtes-vous prêts à souffrir 😁.
 
-Devenir developpeur des jeux video est magic 🪄  
-Mais en echange, vous devrez vendre votre ame:     
-<img width="1456" height="610" alt="image" src="https://github.com/user-attachments/assets/db6471da-eee6-470c-9326-25874cb82f56" />
+Devenir développeur de jeux vidéo est magique 🪄
+Mais en échange, vous devrez vendre votre âme à l’entropie : <img width="1456" height="610" alt="image" src="https://github.com/user-attachments/assets/db6471da-eee6-470c-9326-25874cb82f56" />
 
+Ma méthode pour enseigner la programmation repose sur le fait de jouer à des jeux vidéo.
 
-Ma méthode pour enseigner la programmation est par le fait de jouer a des jeux video.
-Pour cela, j ai creer deux convention IID et S2W.
-- [IID](https://github.com/EloiStree/IID): Index du joueur avec un valeur entiere(int) et la date d execution
-- [S2W](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft): envoyer un entier je le tourne en code pour simuler des touches.
+Pour cela, j’ai créé deux conventions : **IID** et **S2W**.
 
-Il nous faudra un code pour simuler c est touche de clavier:
-- S2W en Python si on veut faire du Software
-- Pico 2W si on veut faire du hardware clavier
+* [IID](https://github.com/EloiStree/IID) : index du joueur avec une valeur entière (int) pour une action et la date d’exécution.
+* [S2W](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft) : envoyez-moi un entier, je le transforme en code pour simuler des touches.
 
-Pour communiqure entre Unity3D a ce code Python, il nous faut du reseaux.
-Nous allons utiliser de l'UDP
-https://github.com/EloiStree/2020_11_29_upm_udp_thread_in_out_gate
+Il nous faudra un code pour simuler ces touches de clavier :
 
+* [S2W](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft) en Python si on veut faire du software.
 
-Que vas ont faire.
-- Jouer avec les pieds dans Unity grace a des bornes d arcade.
-- Creer des UnityEvent pour des entiers dans le but d avancer?
-- Apprendre a utiliser ma convention S2W composer d entier
-- Creeons une petit classe pour bouger notre personnage.
-- Pour le faire bouger il faudra envoyer les messages hors de Unity3D
-- 
-La première étape est d’apprendre à créer votre propre interpréteur de macros 😜.
+  * [XOMI](https://github.com/EloiStree/2022_01_24_XOMI) si vous voulez simuler des manettes avec du software.
+* Le Pico 2W permet de simuler un clavier, une souris et du MIDI avec du hardware.
 
+  * Vous pouvez trouver une version [ESP32](https://github.com/EloiStree/APIntCodeTournamentHardwareESP32S3/blob/main/WifiToXInputBLE/Wifi_S2W_To_XInput/Wifi_S2W_To_XInput.ino) si vous voulez simuler une manette.
 
-Dans la vidéo suivante se trouvent toutes les étapes.
-Je vais avancer avec le groupe. Si vous avez un niveau trop avancé, prenez de l’avance avec la vidéo.
+Pour communiquer entre Unity3D et ce code Python, il nous faut du réseau Wi-Fi.
+Nous allons utiliser ce que l’on appelle de l’UDP :
+[https://github.com/EloiStree/2020_11_29_upm_udp_thread_in_out_gate](https://github.com/EloiStree/2020_11_29_upm_udp_thread_in_out_gate)
 
-Une feuille A4 vous est fournie, à voir dans le Git :
+Que va-t-on faire :
+
+* Jouer avec les pieds dans Unity grâce à des bornes d’arcade.
+* Créer des UnityEvent pour envoyer des entiers dans le but d’avancer.
+* Faire une petite boîte à outils pour bouger dans [hordes.io](https://hordes.io).
+* Installer S2W pour recevoir nos entiers.
+* Pour le faire bouger, il faudra envoyer les messages hors de Unity3D avec de l’UDP.
+* Maintenant que l’on sait faire avancer notre personnage :
+* On peut le faire bouger, sauter, tirer, se soigner…
+* Apprenons le C# et les classes tout en montant de niveau.
+
+Note: S2W ne fonction que avec Firefox pour 
+- https://hordes.io
+- https://www.firefox.com/
+
+Deuxième exercice : on va apprendre à découper du texte pour faire notre propre langage de programmation 😋.
+Nous allons créer un interpréteur.
+
+Pour devenir développeur Unity3D ou Godot version C#, il vous faudra apprendre de nombreux concepts.
+Je les ai majoritairement listés ici.
+
+Durant votre apprentissage, je vous invite à les barrer un à un :
 
 * barrer les mots que vous connaissez ;
 * double barrer les mots que vous maîtrisez ;
 * triple barrer si vous pensez être incollable sur le sujet.
 
-À voir :
+---
+
+### À voir :
 
 * **La dactylographie**
 
@@ -54,12 +68,11 @@ Une feuille A4 vous est fournie, à voir dans le Git :
     * une valeur primitive ;
     * une méthode ;
     * un string ;
-    * un if, else, while, switch ?
+    * un if, else, while, switch, for ?
 
-  * **Les bases avancées**
+* **Les bases avancées**
 
-    * une classe ;
-    * une liste et un tableau ;
-    * un dictionnaire.
-
+  * une classe ;
+  * une liste et un tableau ;
+  * un dictionnaire.
 
