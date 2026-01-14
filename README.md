@@ -73,3 +73,13 @@ Durant votre apprentissage, je vous invite à les barrer un à un :
   * une liste et un tableau ;
   * un dictionnaire.
 
+
+
+---------
+
+Note : Hordes.io n’a pas de version Xbox.  
+Donc, pour l’exercice, vous pourriez proposer une façon de jouer au jeu avec une manette.  
+Bon, petit problème avec ça : il vous faut du clavier et une simulation de souris.  
+Exemple : https://youtu.be/KfbV69KvssA?t=692  
+Pour sélectionner les objets sur le sol, je spam-clique le milieu de l’écran avec la souris ;)  
+Du temps de JOMI  
