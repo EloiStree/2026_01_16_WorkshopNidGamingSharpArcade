@@ -77,7 +77,7 @@ Durant votre apprentissage, je vous invite à les barrer un à un :
 
 ---------
 
-Note : Hordes.io n’a pas de version Xbox.  
+**Note**: Hordes.io n’a pas de version Xbox.  
 Donc, pour l’exercice, vous pourriez proposer une façon de jouer au jeu avec une manette.  
 Bon, petit problème avec ça : il vous faut du clavier et une simulation de souris.  
 Exemple : https://youtu.be/KfbV69KvssA?t=692  
