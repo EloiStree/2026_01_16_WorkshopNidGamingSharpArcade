@@ -13,12 +13,9 @@ Pour cela, j’ai créé deux conventions : **IID** et **S2W**.
 * [S2W](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft) : envoyez-moi un entier, je le transforme en code pour simuler des touches.
 
 Il nous faudra un code pour simuler ces touches de clavier :
-
 * [S2W](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft) en Python si on veut faire du software.
-
   * [XOMI](https://github.com/EloiStree/2022_01_24_XOMI) si vous voulez simuler des manettes avec du software.
-* Le Pico 2W permet de simuler un clavier, une souris et du MIDI avec du hardware.
-
+* Le [Pico 2W](https://github.com/EloiStree/APIntCodeTournamentHardwarePico2W/tree/main/Pico2W) permet de simuler un clavier, une souris et du MIDI avec du hardware.
   * Vous pouvez trouver une version [ESP32](https://github.com/EloiStree/APIntCodeTournamentHardwareESP32S3/blob/main/WifiToXInputBLE/Wifi_S2W_To_XInput/Wifi_S2W_To_XInput.ino) si vous voulez simuler une manette.
 
 Pour communiquer entre Unity3D et ce code Python, il nous faut du réseau Wi-Fi.
