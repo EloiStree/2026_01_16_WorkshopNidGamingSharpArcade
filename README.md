@@ -97,7 +97,6 @@ Durant votre apprentissage, je vous invite à les barrer un à un :
 
 Move in World of Warcraft, C# and Math:   
 [<img width="1919" height="1196" alt="image" src="https://github.com/user-attachments/assets/e995b3d9-0cec-4454-be1f-eddfb2f26831" />](https://www.youtube.com/watch?v=QKGy2C7bsUI)    
- 
 
 
 
