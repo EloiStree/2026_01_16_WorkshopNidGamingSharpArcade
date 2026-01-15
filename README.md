@@ -5,13 +5,10 @@ Bonjour à vous et bienvenue.
 Devenir développeur de jeux vidéo est magique 🪄
 Mais en échange, vous devrez vendre votre âme à l’entropie : <img width="1456" height="610" alt="image" src="https://github.com/user-attachments/assets/db6471da-eee6-470c-9326-25874cb82f56" />
 
-Vidéos :
-- Installer S2W (avec Python, Git) https://www.youtube.com/watch?v=fXJTpJEZMRE
-- Créer un projet Unity pour S2W et Hordes.io https://www.youtube.com/watch?v=9bfqbMqRJsQ
-- Un exemple de comment sauter (pas débutant-friendly) : https://www.youtube.com/watch?v=CnGrqzAi-S4
-
-
 Ma méthode pour enseigner la programmation repose sur le fait de jouer à des jeux vidéo.
+
+
+
 
 Pour cela, j’ai créé deux conventions : **IID** et **S2W**.
 
@@ -75,8 +72,23 @@ Durant votre apprentissage, je vous invite à les barrer un à un :
 
 ### Video
 
-- Long first version of the workshop, part 1: https://youtu.be/n4CXsb6nQG4
+- Comment créer une interface pour jouer à Hordes.io depuis Unity, en gros 😋 :   
+https://youtu.be/n4CXsb6nQG4
+(J’ai réalisé en créant la vidéo que ce n’était pas pour les débutants.   
+J’en ai donc fait une boîte à outils à utiliser plutôt que de la créer soi-même.)  
   
+Vidéos :
+- Installer S2W (avec Python, Git)  
+  https://www.youtube.com/watch?v=fXJTpJEZMRE  
+  - Petit test pour évaluer votre capacité à lire un manuel et votre niveau en informatique généraliste.
+- Créer un projet Unity pour S2W et Hordes.io  
+  https://www.youtube.com/watch?v=9bfqbMqRJsQ  
+  - Ouvrons Unity et déposons des éléments préparés pour vous.
+- Exemple de saut (pas débutant-friendly)  
+  https://www.youtube.com/watch?v=CnGrqzAi-S4  
+  - Un peu compliqué, mais montre des bases de Unity3D à étudier au début.
+
+
 ---
 
 ### À voir :
