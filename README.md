@@ -53,12 +53,16 @@ Nous allons créer un interpréteur.
 
 Pour devenir développeur Unity3D ou Godot version C#, il vous faudra apprendre de nombreux concepts.
 Je les ai majoritairement listés ici.
+https://github.com/EloiStree/HelloSharpForUnity3D/issues/617
+
 
 Durant votre apprentissage, je vous invite à les barrer un à un :
 
 * barrer les mots que vous connaissez ;
 * double barrer les mots que vous maîtrisez ;
 * triple barrer si vous pensez être incollable sur le sujet.
+
+
 
 
 ----
