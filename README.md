@@ -74,11 +74,11 @@ Durant votre apprentissage, je vous invite à les barrer un à un :
 Fine. Here’s the cleaned-up, correctly spelled version. Same content, less typographical chaos.
 
 ---
-* **Comment créer une interface pour jouer à Hordes.io depuis Unity, en gros 😋 :**
-  [https://youtu.be/n4CXsb6nQG4](https://youtu.be/n4CXsb6nQG4)
-  (J’ai réalisé en créant la vidéo que ce n’était pas pour les débutants.
-  J’en ai donc fait une boîte à outils à utiliser plutôt que de la créer soi-même.
-  Skip it.)
+* **Comment créer une interface pour jouer à Hordes.io depuis Unity, en gros 😋 :**  
+  [https://youtu.be/n4CXsb6nQG4](https://youtu.be/n4CXsb6nQG4)  
+  (J’ai réalisé en créant la vidéo que ce n’était pas pour les débutants.  
+  J’en ai donc fait une boîte à outils à utiliser plutôt que de la créer soi-même.  
+  Skip it.)  
   * **Mapper les touches dans Unity3D :**
     * [https://youtu.be/n4CXsb6nQG4?t=844](https://youtu.be/n4CXsb6nQG4?t=844)
   * **Lier un code à un UnityEvent pour les touches :**
