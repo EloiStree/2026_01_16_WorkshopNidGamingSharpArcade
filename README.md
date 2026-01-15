@@ -75,9 +75,10 @@ Durant votre apprentissage, je vous invite à les barrer un à un :
 - Comment créer une interface pour jouer à Hordes.io depuis Unity, en gros 😋 :   
 https://youtu.be/n4CXsb6nQG4
 (J’ai réalisé en créant la vidéo que ce n’était pas pour les débutants.   
-J’en ai donc fait une boîte à outils à utiliser plutôt que de la créer soi-même.)  
+J’en ai donc fait une boîte à outils à utiliser plutôt que de la créer soi-même.
+Skip it)  
   
-Vidéos :
+Exercices :
 - Installer S2W (avec Python, Git)  
   https://www.youtube.com/watch?v=fXJTpJEZMRE  
   - Petit test pour évaluer votre capacité à lire un manuel et votre niveau en informatique généraliste.
