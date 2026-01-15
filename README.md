@@ -80,11 +80,11 @@ Fine. Here’s the cleaned-up, correctly spelled version. Same content, less typ
   J’en ai donc fait une boîte à outils à utiliser plutôt que de la créer soi-même.
   Skip it.)
   * **Mapper les touches dans Unity3D :**
-  [https://youtu.be/n4CXsb6nQG4?t=844](https://youtu.be/n4CXsb6nQG4?t=844)
+    * [https://youtu.be/n4CXsb6nQG4?t=844](https://youtu.be/n4CXsb6nQG4?t=844)
   * **Lier un code à un UnityEvent pour les touches :**
-  [https://youtu.be/n4CXsb6nQG4?t=4926](https://youtu.be/n4CXsb6nQG4?t=4926)
+    * [https://youtu.be/n4CXsb6nQG4?t=4926](https://youtu.be/n4CXsb6nQG4?t=4926)
   * **Jouer avec notre code pour trouver la vitesse de marche et de rotation :**
-  [https://youtu.be/n4CXsb6nQG4?t=7596](https://youtu.be/n4CXsb6nQG4?t=7596)
+    * [https://youtu.be/n4CXsb6nQG4?t=7596](https://youtu.be/n4CXsb6nQG4?t=7596)
 
 Exercices :
 - Installer S2W (avec Python, Git)  
