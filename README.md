@@ -5,6 +5,12 @@ Bonjour à vous et bienvenue.
 Devenir développeur de jeux vidéo est magique 🪄
 Mais en échange, vous devrez vendre votre âme à l’entropie : <img width="1456" height="610" alt="image" src="https://github.com/user-attachments/assets/db6471da-eee6-470c-9326-25874cb82f56" />
 
+Vidéos :
+- Installer S2W (avec Python, Git) https://www.youtube.com/watch?v=fXJTpJEZMRE
+- Créer un projet Unity pour S2W et Hordes.io https://www.youtube.com/watch?v=9bfqbMqRJsQ
+- Un exemple de comment sauter (pas débutant-friendly) : https://www.youtube.com/watch?v=CnGrqzAi-S4
+
+
 Ma méthode pour enseigner la programmation repose sur le fait de jouer à des jeux vidéo.
 
 Pour cela, j’ai créé deux conventions : **IID** et **S2W**.
