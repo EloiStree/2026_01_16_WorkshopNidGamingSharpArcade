@@ -26,12 +26,10 @@ Nous allons utiliser ce que l’on appelle de l’UDP :
 Unity Package:
 
 ```
-https://github.com/EloiStree/2026_01_14_upm_sharp_hordes_io.git
-```
-
-```
+    "be.elab.hordesio": "https://github.com/EloiStree/2026_01_14_upm_sharp_hordes_io.git",
     "be.elab.tickcollection": "https://github.com/EloiStree/2025_06_02_upm_tick_collection.git",
     "be.elab.udpthreadsender": "https://github.com/EloiStree/2020_11_29_upm_udp_thread_in_out_gate.git",
+
 
 ```
 Les touches et menu du jeu:  
