@@ -137,3 +137,10 @@ Bon, petit problème avec ça : il vous faut du clavier et une simulation de sou
 Exemple : https://youtu.be/KfbV69KvssA?t=692  
 Pour sélectionner les objets sur le sol, je spam-clique le milieu de l’écran avec la souris ;)  
 Du temps de JOMI  
+
+
+-------------
+
+# Workshop switch
+
+- https://github.com/EloiStree/2026_01_16_upm_10_seconds_tello
