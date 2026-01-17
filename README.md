@@ -146,6 +146,15 @@ Note:
 "com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
 ```
 
+
+-------
+
+Note:
+- https://github.com/EloiStree/2025_05_27_PrimitiveToStringFormatRelay
+- https://github.com/EloiStree/2025_06_05_DebugDrawUtility
+- https://github.com/EloiStree/2025_05_26_InputFieldBroadcastPrefs
+- https://github.com/EloiStree/2025_02_05_P_NaturePack300
+
     
 
 
