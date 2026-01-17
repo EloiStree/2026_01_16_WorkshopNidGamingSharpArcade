@@ -163,3 +163,10 @@ Note:
 # Workshop switch
 
 - https://github.com/EloiStree/2026_01_16_upm_10_seconds_tello
+
+
+-----------------
+
+
+[<img width="1353" height="824" alt="image" src="https://github.com/user-attachments/assets/21411c01-2cce-486d-95f7-46b70613ff4f" />](https://github.com/EloiStree/2019_05_03_JustRubikCube)  
+https://github.com/EloiStree/2019_05_03_JustRubikCube  
