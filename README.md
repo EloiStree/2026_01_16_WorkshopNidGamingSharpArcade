@@ -139,6 +139,16 @@ Pour sélectionner les objets sur le sol, je spam-clique le milieu de l’écran
 Du temps de JOMI  
 
 
+--------
+
+Note:
+```
+"com.cysharp.unitask": "https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask",
+```
+
+    
+
+
 -------------
 
 # Workshop switch
