@@ -1,3 +1,15 @@
+
+Changement de workshop 😋.
+
+On va:
+- sauver votre projet Unity
+- creer une manette NES sur Android
+<img width="1280" height="695" alt="1280px-NES-Console-Set" src="https://github.com/user-attachments/assets/57c84ded-e916-4d3f-8295-17fc77734bb4" />
+
+C'est par [ici->](https://github.com/EloiStree/2025_01_19_WorkshopXboxRemoteAndroidToolbox) 🍻
+
+-----------------------
+
 Bonjour à vous et bienvenue.
 
 Êtes-vous prêts à souffrir 😁.
